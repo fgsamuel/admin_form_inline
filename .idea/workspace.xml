@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d318ea6-fba2-4768-8189-58e3525ea075" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/admin_form_inline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_form_inline/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_form_inline/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_form_inline/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_form_inline/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_form_inline/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V2jhNucrzwijDUprm4IEubOSRW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d318ea6-fba2-4768-8189-58e3525ea075" name="Default Changelist" comment="" />
+      <created>1576458201198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576458201198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
